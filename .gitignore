@@ -1,3 +1,4 @@
 .envrc
 documents.json
 .ipynb_checkpoints/RAG-checkpoint.ipynb
+__pycache__/rag.cpython-310.pyc
